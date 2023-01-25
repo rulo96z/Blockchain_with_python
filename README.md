@@ -10,7 +10,7 @@ This ledger should allow partner banks to conduct financial transactions (that i
 ## License
 MIT License
 
-Copyright (c) 2022 Raul 
+Copyright (c) 2022 raul@nogalesfundmgmt.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
